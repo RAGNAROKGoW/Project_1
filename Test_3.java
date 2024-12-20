@@ -86,6 +86,10 @@ class Test_3{
             }
             System.out.println();
         }
-            
+        //     *
+        //   *   *
+        // *       *
+        //   *   *
+        //     *      
     }
 }
